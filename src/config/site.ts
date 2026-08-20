@@ -3,7 +3,7 @@
  */
 export const site = {
   brand: {
-    name: "Velorah",
+    name: "Everysphere",
     /** Rendered as a superscript next to the name. Set to null to hide. */
     mark: "®",
   },
